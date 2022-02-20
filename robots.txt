@@ -1,0 +1,6 @@
+User-agent: *
+Disallow:/
+User-Agent: Googlebot-Mobile
+User-Agent: YahooSeeker/M1A1-R2D2
+Allow:
+Sitemap: http://m.instamobel.com/sitemap.xml
